@@ -1,17 +1,3 @@
-# Chapter 1
+# AWK
 
-## admonish ejemplo
-
-```admonish example
-My example is the best!
-```
-
-## mermaid ejemplo
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+## ¿Que es AWK?
